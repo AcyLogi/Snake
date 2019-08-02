@@ -1,4 +1,4 @@
-Snake-Project
+#Snake-Project
 
-Mit diesem Projekt versuche ich das Spiel Snake zu rekonstruieren.
+!Mit diesem Projekt versuche ich das Spiel Snake zu rekonstruieren.
 
