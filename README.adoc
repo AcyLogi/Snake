@@ -1,0 +1,4 @@
+Snake-Project
+
+Mit diesem Projekt versuche ich das Spiel Snake zurekonstruieren.
+
