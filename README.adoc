@@ -1,4 +1,5 @@
-#Snake-Project
+= Snake-Project
+Repository-Link <https://github.com/AcyLogi/Snake>
 
-!Mit diesem Projekt versuche ich das Spiel Snake zu rekonstruieren.
-
+[TIP]
+Mit diesem Projekt versuche ich das Spiel Snake zu rekonstruieren.
