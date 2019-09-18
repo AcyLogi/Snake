@@ -3,3 +3,4 @@ Repository-Link <https://github.com/AcyLogi/Snake>
 
 [TIP]
 Mit diesem Projekt versuche ich das Spiel Snake zu rekonstruieren.
+Ab heute wird das Projekt weiter geführt.
